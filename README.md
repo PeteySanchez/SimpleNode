@@ -1,0 +1,2 @@
+# SimpleNode
+A simple server
